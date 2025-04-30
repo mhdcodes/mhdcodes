@@ -11,18 +11,18 @@ Want to know more about me? [Check out my twitter.](https://x.com/mhdcode)
 </a>
 <br >
 
-<a href="https://github.com/phpjuice/paypal-checkout-sdk">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=paypal-checkout-sdk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/tryphp">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhdcodes&repo=tryphp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 
-<a href="https://github.com/phpjuice/opencf">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=opencf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/codiume/hooks">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=codiume&repo=hooks&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br >
 
-<a href="https://github.com/phpjuice/slopeone">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=slopeone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/phpjuice/paypal-checkout-sdk">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phpjuice&repo=paypal-checkout-sdk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 
